@@ -6,7 +6,7 @@
 
 #### Actualmente viviendo en España, Valencia📍
 
-![TechWorld](/Users/andresrsalamanca/Documents/GitHub/Gandrex87/tech.png)
+![TechWorld](/tech.png)
 
 <!--
 **Gandrex87/Gandrex87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
