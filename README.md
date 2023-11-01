@@ -1,10 +1,10 @@
 # Hola gente 👋
 
-### Soy Andrés, profesional en Mercadeo y Publicidad con una afición por  el mundo geek, lo cual me ha llevado a realizar un Master en transformación Digital y desarrollo de negocios y en Data Analytics, todo esto con el fin de adentrarme en este mundo tan amplio y a la vez fascinante.
+#### Soy Andrés, profesional en Mercadeo y Publicidad con una afición por  el mundo geek, lo cual me ha llevado a realizar un Master en transformación Digital y desarrollo de negocios y en Data Analytics, todo esto con el fin de adentrarme en este mundo tan amplio y a la vez fascinante.
 
-### ⛰️ Montañista de corazón ⛰️  
+#### ⛰️ Montañista de corazón ⛰️  
 
-### Actualmente viviendo en España, Valencia📍
+#### Actualmente viviendo en España, Valencia📍
 
 ![TechWorld](/Users/andresrsalamanca/Documents/GitHub/Gandrex87/tech.png)
 
