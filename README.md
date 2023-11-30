@@ -1,14 +1,7 @@
-# Hola gente 👋
-
-#### Soy Andrés, profesional en Mercadeo y Publicidad con una afición por  el mundo geek, lo cual me ha llevado a realizar un Master en transformación Digital y desarrollo de negocios y en Data Analytics, todo esto con el fin de adentrarme en este mundo tan amplio y a la vez fascinante.
-
-#### ⛰️ Montañista de corazón ⛰️  
+## Hola gente 👋 
 
 #### Actualmente viviendo en España, Valencia📍
 
-![TechWorld](/tech.png)
-
-<!--
 **Gandrex87/Gandrex87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
