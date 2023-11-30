@@ -1,6 +1,6 @@
 ## Hola gente 👋 
 
-#### Actualmente viviendo en España, Valencia📍
+# Valencia📍
 
 **Gandrex87/Gandrex87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
